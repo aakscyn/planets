@@ -1,6 +1,8 @@
+
 git init
 git add
 git comit -m "[write a message]"
 git status
 git log
+git diff
 
